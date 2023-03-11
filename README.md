@@ -1,3 +1,4 @@
-# How to install Ruby
+# How to install GO
 
-https://rubyinstaller.org/
+https://go.dev/doc/install
+
