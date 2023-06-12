@@ -2,9 +2,12 @@
 
 [https://go.dev/doc/install](https://rubyinstaller.org/)
 
-# how to run
+# How to run
 
-'puts "Hello, World!"'
+`puts "Hello, World!"`
 
-# notes
+# Notes
 
+Ruby is an [interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>), [high-level](https://en.wikipedia.org/wiki/High-level_programming_language), [general-purpose programming language](https://en.wikipedia.org/wiki/General-purpose_programming_language) language
+
+Ruby is a great programming tool used to build web applications
