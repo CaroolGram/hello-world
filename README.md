@@ -1,6 +1,6 @@
 # How to install Ruby
 
-[https://go.dev/doc/install](https://rubyinstaller.org/)
+https://rubyinstaller.org/
 
 # How to run
 
