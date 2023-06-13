@@ -1,6 +1,6 @@
 # How to install PHP
 
-[https://cran.r-project.org/bin/windows/base/](https://www.php.net/downloads)
+https://www.php.net/downloads
 
 # How to run
 
